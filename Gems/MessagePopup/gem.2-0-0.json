@@ -105,5 +105,16 @@
     "org.o3de.gem.messagepopup",
     "Gameplay",
     "Sample"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-messagepopup.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
